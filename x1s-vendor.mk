@@ -82,4 +82,5 @@ PRODUCT_PACKAGES += \
     libwrappergps \
     sensors.sensorhub \
     HotwordEnrollmentOKGoogleEx3CORTEXM4 \
-    HotwordEnrollmentXGoogleEx3CORTEXM4
+    HotwordEnrollmentXGoogleEx3CORTEXM4 \
+    gpsd
